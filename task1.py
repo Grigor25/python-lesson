@@ -27,7 +27,7 @@ print(full_name,age)
 # Ստղծեք փոփոխական, որտեղ գրեք ձեր բառերով մինչեվ հիմա քանի data type (տվյալների տեսակ) ենք անցել
 #  ,ինչ ՈՉ ՊԱՐՏԱԴԻՐ ընդունված ձեվեր կա փոփոխական հայտարարելու ու վերջում ուղակի print արեք փոփոխականը:
 
-variables = 'string,number,boolean,NoneType  x = 15 & int x = 15'
+variables = 'string,number,boolean,NoneType  x = 15 '
 print(variables)
 
 #  Կարող եք ձեր ամեն մի գրած կոդի վերեվում քոմենտ արեք օգտագործելով # նշանը
