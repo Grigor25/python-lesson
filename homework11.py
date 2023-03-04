@@ -23,7 +23,7 @@ with open('db.txt') as f:
     print(users_list)
 
 
-def 
+ 
 ##		
 #	2.	Ունենք list numbers = [[[[[10]]]]]
 numb = [[[[[10]]]]]
